@@ -27,6 +27,8 @@
   },
   "repository": "git://github.com/Prozi/detect-collisions.git",
   "files": [
+    "src/*.*",
+    "src/bodies/*.*",
     "dist/*.*",
     "dist/bodies/*.*"
   ],
